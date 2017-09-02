@@ -1,6 +1,6 @@
 # Libft
 
-This is the first project that i made in 42, basically you are creating your most important 'tool' that you will use in the future, pretty good project, you'll learn the basics of C language... Creating basics function until memory functions with malloc, try to catch the all knowledge, because you'll need it.
+This is the first project that i did at 42, basically you are creating your most important 'tool' that you will use in the future, pretty good project, you'll learn the basics of C language... Creating basics function until memory functions with malloc, try to catch the all knowledge, because you'll need it.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
